@@ -5,6 +5,8 @@
 <title>PHT Chương 2 - PHP Căn Bản</title> 
 </head> 
 <body> 
+    echo "test";
+
 <h1>Kết quả PHP Căn Bản</h1> 
 
 <?php 
