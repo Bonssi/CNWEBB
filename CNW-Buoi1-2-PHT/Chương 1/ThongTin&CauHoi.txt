@@ -1,0 +1,6 @@
+B. Thông tin trích xuất
+1. Request URL: http://tlu.edu.vn/
+2. Request Method: GET
+2. Status Code: 200 OK
+C. Câu hỏi phản biện 
+Giả sử yêu cầu chính trả về Status Code: 404 Not Found. Tại sao khi nhận 404 Not Found, sẽ không thấy các yêu cầu phụ cho file .css, .js, .jpg xuất hiện sau đó?

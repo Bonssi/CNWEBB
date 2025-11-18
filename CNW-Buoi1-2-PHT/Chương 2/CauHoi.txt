@@ -1,0 +1,2 @@
+* Câu hỏi phản biện
+Em thấy code PHP đang được đan xen trực tiếp vào file HTML. Nếu dự án lớn hơn (ví dụ trang web có 1000 dòng html), việc nhúng PHP vào như vậy có làm code bị rối và khó bảo trì không? CÓ cách nào tốt hơn để tách biệt logic PHP ra khỏi giao diện HTML không?
