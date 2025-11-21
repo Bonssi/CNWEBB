@@ -1,0 +1,2 @@
+Câu hỏi phản biện
+“Điều gì sẽ xảy ra nếu quên gọi session_start() ở file welcome.php, mặc dù đã gọi ở handle_login.php? Tại sao đây là lỗi nghiêm trọng trong hệ thống đăng nhập?”
