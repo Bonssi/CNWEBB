@@ -13,7 +13,7 @@ if (isset($_POST['username'])) {
     if ($user == 'admin' && $pass == '123') {
 
         // Lưu tên username vào SESSION
-        $_SESSION['username'] = 'admin';
+        $_SESSION['username'] = 'BROOO';
 
         // Chuyển hướng sang welcome.php
         header('Location: welcome.php');
