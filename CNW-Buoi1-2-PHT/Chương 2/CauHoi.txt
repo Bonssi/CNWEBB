@@ -1,0 +1,2 @@
+* Câu hỏi phản biện
+PHP xác định kiểu dữ liệu của biến tại thời điểm chạy (runtime). Vậy cơ chế “ép kiểu tự động” (type juggling) của PHP có thể gây ra những lỗi logic nào trong các biểu thức so sánh, đặc biệt là khi dùng toán tử == thay vì === ?
