@@ -1,0 +1,2 @@
+*cauhoi
+*Trong file views/sinhvien_view.php, tại sao chúng ta tuyệt đối không được viết code kết nối PDO hay câu lệnh SELECT ? Lợi ích của việc 'cấm' View truy cập trực tiếp vào CSDL là gì?
